@@ -32,7 +32,7 @@ MindEase uses Retrieval-Augmented Generation to:
 - Provide stress management tips from WHO publications.
 - Pull mental health FAQs from verified therapist articles.
 
----
+----
 
 ## 💡 Project Goal
 
